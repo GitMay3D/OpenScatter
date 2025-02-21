@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+id = "openscatter"
+version = "1.0.0"
+name = "OpenScatter"
+tagline = "Unreleased Beta Version"
+maintainer = "May3D"
+type = "add-on"
+tags = ["3D View"]
+blender_version_min = "4.2.0"
+license = [
+"SPDX:GPL-2.0-or-later",
+]
