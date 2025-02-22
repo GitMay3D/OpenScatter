@@ -16,7 +16,7 @@ Here you can find some frequently asked questions and the correlating answers.
 
 ---
 
-**Q:**Which Blender versions are supported?
+**Q:** Which Blender versions are supported?
 
 **A:** As of release, the supported Blender version is 4.3. I plan on providing support for all future Blender versions.
 
