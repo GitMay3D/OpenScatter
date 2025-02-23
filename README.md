@@ -18,7 +18,7 @@ To report any bugs or request a feature, please use the [issues page](https://gi
 
 # Installation
 
-1. Download the addon from BlenderMarket or Gumroad.
+1. Download the addon from BlenderMarket.
 2. Open Blender and go to Edit -> Preferences -> Add-ons. 
 3. Press the arrow button in the top-right corner and hit "Install from Disk".
 4. Locate where you saved the addon, select it and hit "Install from Disk". 
