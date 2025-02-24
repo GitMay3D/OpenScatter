@@ -186,6 +186,7 @@ You can use the 'Texture Masks' feature to control the distribution of objects. 
 - **Noise** - Creates a semi-randomized and varied look. Great for realistic natural results.
 - **Lines** - Creates rows in your scatter system. Could be useful for creating the classic [dutch tulips](https://en.wikipedia.org/wiki/Tulip#Flowers).
 - **Tiles** - Creates a grid of tiles. Used for more artistic or [architectural purposes](https://www.pinterest.com/pin/synthetic-turf-and-inset-pavers-the-new-trend-in-landscaping--25473554120437702/).
+- **Image** - Use a custom image as the texture mask. 
 
 Changing the falloff values of the Noise and Lines textures can also create some interesting results as you can practically make it only affect the scale of the objects.
 
