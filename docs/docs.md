@@ -188,7 +188,8 @@ You can use the 'Texture Masks' feature to control the distribution of objects. 
 - **Tiles** - Creates a grid of tiles. Used for more artistic or [architectural purposes](https://www.pinterest.com/pin/synthetic-turf-and-inset-pavers-the-new-trend-in-landscaping--25473554120437702/).
 - **Image** - Use a custom image as the texture mask. 
 
-Changing the falloff values of the Noise and Lines textures can also create some interesting results as you can practically make it only affect the scale of the objects.
+Changing the falloff values of textures can also create some interesting results as you can practically make it only affect the scale of the objects.
+For example, using the noise texture masks, and tuning the falloff can give you natural scale variation that isn't just random, compared to the random scale feature.
 
 # Dynamics
 
