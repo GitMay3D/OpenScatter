@@ -7,13 +7,11 @@ Key Benefits:
 - Realism: Various advanced features to create realistic scatter systems.
 - Performance: Advanced optimization features for viewport and render efficiency.
 
-
 # Installation
 
-1. Download the addon from BlenderMarket or Gumroad.
-2. Open Blender and go to Edit -> Preferences -> Add-ons. 
-3. Press the arrow button in the top-right corner and hit "Install from Disk".
-4. Locate where you saved the addon, select it and hit "Install from Disk". 
+1. Open Blender and go to Edit -> Preferences -> Add-ons. 
+2. Press the arrow button in the top-right corner and hit "Install from Disk".
+3. Locate where you saved the addon, select it and hit "Install from Disk". 
 
 Done!
 
@@ -25,7 +23,7 @@ Once installed, open the N-Panel/Sidebar, and you'll find the addon panel in the
 
 **Initial Configuration:**
 
-When you've located the addon panel, you can simply click the '+' icon to add a new scatter system. From here you can choose the desired surface, the instances you want to scatter and so on. 
+When you've located the addon panel, you can simply choose an emitter and then click the '+' icon to add a new scatter system. From here you can choose the desired surface, the instances you want to scatter and so on. 
 
 # Scattering System Overview
 
@@ -67,26 +65,26 @@ Enable this to prevent instances from overlapping or colliding with each other.
 # Scale & Rotation
 
 - ### Scale Options:
-
+  
   - **Uniform Scale:** <br> 
-Keep scaling consistent in all axes.
-
+    Keep scaling consistent in all axes.
+  
   - **Non-Uniform Scale:** <br> 
-Independently adjust scale per axis.
-
+    Independently adjust scale per axis.
+  
   - **Random Scale:** <br> 
-Introduce randomness into the scaling values.
+    Introduce randomness into the scaling values.
 
 - ### Rotation Options:
-
+  
   - **Rotate:**<br> 
-Manually set rotation.
-
+    Manually set rotation.
+  
   - **Align to Surface:**<br>
-Automatically rotate instances to match the surface normal.
-
+    Automatically rotate instances to match the surface normal.
+  
   - **Random Rotation:**<br>
-Add randomization to the rotation values.
+    Add randomization to the rotation values.
 
 # Culling
 
@@ -137,12 +135,12 @@ Higher values mean the proximity effect extends farther from the chosen object(s
 Enable this to control the transition of the growth. Use the "Transition" value below, to define the smoothness of the transition. 
 
 - **Avoid / Seek**
-
+  
   - Avoid: <br>
-Instances will be sparse or absent near the object within the specified distance.
-
+    Instances will be sparse or absent near the object within the specified distance.
+  
   - Seek: <br>
-Instances will concentrate near the object, within the specified distance.
+    Instances will concentrate near the object, within the specified distance.
 
 ### **Curve Proximity**
 
@@ -170,10 +168,10 @@ When enabled, the proximity effect will take effect regardless of the curves pos
 **Avoid / Seek:**
 
 - Avoid: <br>
-Instances will be sparse or absent near the curve within the specified distance.
+  Instances will be sparse or absent near the curve within the specified distance.
 
 - Seek: <br>
-Instances will concentrate near the curve, within the specified distance.
+  Instances will concentrate near the curve, within the specified distance.
 
 # Ecosystem
 
