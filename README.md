@@ -18,7 +18,7 @@ To report any bugs or request a feature, please use the [issues page](https://gi
 
 # Installation
 
-1. Download the addon from BlenderMarket.
+1. Download the addon from BlenderMarket or Gumroad.
 2. Open Blender and go to Edit -> Preferences -> Add-ons. 
 3. Press the arrow button in the top-right corner and hit "Install from Disk".
 4. Locate where you saved the addon, select it and hit "Install from Disk". 
@@ -33,4 +33,4 @@ Once installed, open the N-Panel/Sidebar, and you'll find the addon panel in the
 
 **Initial Configuration:**
 
-When you've located the addon panel, you can simply click the '+' icon to add a new scatter system. From here you can choose the desired surface, the instances you want to scatter and so on. 
+When you've located the addon panel, you can simply choose an emitter object and then click the '+' icon to add a new scatter system. From here you can choose the desired surface, the instances you want to scatter and so on. 
