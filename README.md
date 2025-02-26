@@ -1,3 +1,9 @@
+![Logo](https://files.catbox.moe/jo1b8s.png)
+[![bSDdp.gif](https://s3.gifyu.com/images/bSDdp.gif)](https://gifyu.com/image/bSDdp)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I51B67IU)
+[![Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/may3d/donate)
+
+---
 # Introduction
 
 OpenScatter is a free and open-source Blender addon for advanced scattering. It's built from the ground up with artists in mind. It includes various features to simulate the natural patterns of foliage growth, as well as less realistic features for users who want artistic control. 
