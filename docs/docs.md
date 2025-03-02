@@ -214,3 +214,11 @@ This feature allows you to use an optimized mesh in the viewport. The current op
 
 **Camera Culling:**<br>
 Using Camera Culling, only objects in the view of the active camera will be rendered. This significantly decrease the amount of instances, without you having to do it manually with something like vertex groups. 
+
+# Working with multiple scenes
+
+If your blend file has several scenes, working with OpenScatter can become a bit more complicated. 
+
+By default, you can create scatter systems in multiple scenes, but since the scatter systems are linked between scenes, the visibility of scatter systems aren't updated between scenes. 
+
+To solve this, I added a refresh button next to the system list. When this is pressed, it will update the visibility of all the scatter systems to match the active scene. When switching to a new scene, you'll have to press it again. 
