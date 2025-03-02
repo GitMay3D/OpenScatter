@@ -207,7 +207,10 @@ The optimization category contains some very useful features for optimizing your
 This feature will decrease the density in the viewport down to the selected percentage. It will keep it fast in the viewport, and show the original high density in renders. 
 
 **Use Optimized Mesh:**<br>
-This feature allows you to either use 'Bounding Box' or 'Convex Hull' as the scattered object. It's a great way to optimize viewport performance if you have high poly objects. 
+This feature allows you to use an optimized mesh in the viewport. The current options are:
+- Convex Hull - Creates a convex hull around your instances. This is the least optimized version.
+- Bounding Box - Creates a bounding box around your instances. Greatly reduces vertex count but also reduces visibility.
+- Proxy Object - Using the proxy object option you can choose a premade mesh to represent your instances. It comes with options for things like grass, rocks, trees, etc.
 
 **Camera Culling:**<br>
 Using Camera Culling, only objects in the view of the active camera will be rendered. This significantly decrease the amount of instances, without you having to do it manually with something like vertex groups. 
