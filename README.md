@@ -17,9 +17,9 @@ Key Benefits:
 
 You can download the addon from the releases page on this github repository. However, purchasing on [BlenderMarket](https://blendermarket.com/products/openscatter) helps support the development and keep the project alive!
 
-# Support
+# Help & Support
 
-To report any bugs or request a feature, please use the [issues page](https://github.com/GitMay3D/OpenScatter/issues).
+To report any bugs or request a feature, please use the [issues page](https://github.com/GitMay3D/OpenScatter/issues). However, before creating a new issue, please read through the [documentation and FAQ](https://openscatter-documentation.neocities.org/).
 
 
 # Installation
