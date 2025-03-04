@@ -24,7 +24,7 @@ You can download the addon from the releases page on this github repository. How
 
 # Help & Support
 
-To report any bugs or request a feature, please use the [issues page](https://github.com/GitMay3D/OpenScatter/issues). However, before creating a new issue, please read through the [documentation and FAQ](https://openscatter-documentation.neocities.org/).
+To report any bugs or request a feature, you can either use the [issues page](https://github.com/GitMay3D/OpenScatter/issues) or the [Discord server](https://discord.gg/yP5fBHndtD). However, before creating a new issue, please read through the [documentation and FAQ](https://openscatter-documentation.neocities.org/).
 
 
 # Installation
