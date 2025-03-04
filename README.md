@@ -7,6 +7,7 @@
 - [FAQ](https://openscatter-documentation.neocities.org/faq/)
 - [Blendermarket](https://blendermarket.com/products/openscatter)
 - [Gumroad](https://may3d.gumroad.com/l/openscatter)
+- [Discord Server](https://discord.gg/yP5fBHndtD)
   
 # Introduction
 
