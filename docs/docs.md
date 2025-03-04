@@ -39,6 +39,10 @@ Now, go to the "Instances" category. Here you can choose which instances to scat
 To control your scattering, go to the "Scattering" category. Here you can control the density and seed. You can also enable the option called "Limit Self-Collision". This will show you a new value that you can change. This will control the minimum distance between each scattered object. 
 From here, you can play around with all the different categories to get the results you want. We'll go into details on each of these on the following pages.
 
+# Quick Scatter
+
+Using the Quick Scatter panel, you can scatter the selected objects instantly. You can also choose a pattern and the density.
+
 # Surfaces
 
 The way OpenScatter works is by allowing you to choose an emitter object as the surface. When you've selected a surface you can add scatter system to it. All scatter systems will be using the emitter object that you have selected when you add a new scatter system. You can also choose custom surfaces for each individual scatter system. This can be useful in some instances, but it often makes more sense to use the emitter object. 
@@ -57,7 +61,21 @@ Choosing instances is very similar to choosing surfaces. You have a 'Type' menu 
 Control the number of instances per unit area.
 
 **Seed:**<br>
-Random seed for generating varied scattering layouts.
+Random seed for generating varied scattering layouts. 
+
+**Randomize Seed:**<br>
+Allows you to randomize the seed value with the click of a button.
+
+**Math Operations:**<br>
+Using this feature you can use math to control the density. It has 5 different options:
+
+- Factor - A float value that controls the factor of the operations below.
+- '*' = Multiply the density by the factor.
+- '/' = Divide the density by the factor.
+- '+' = Add the factor to the density.
+- '-' = Subtract the factor from the density.
+  <br>
+
 
 **Limit Self-Collision:**<br>
 Enable this to prevent instances from overlapping or colliding with each other.
