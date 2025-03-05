@@ -3,8 +3,8 @@
 [![Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/may3d/donate)
 ---
 # Links
-- [Documentation](https://openscatter-documentation.neocities.org/)
-- [FAQ](https://openscatter-documentation.neocities.org/faq/)
+- [Documentation]([https://openscatter-documentation.neocities.org/](https://github.com/GitMay3D/OpenScatter/blob/main/docs/docs.md))
+- [FAQ]([https://openscatter-documentation.neocities.org/faq/](https://github.com/GitMay3D/OpenScatter/blob/main/docs/faq.md))
 - [Blendermarket](https://blendermarket.com/products/openscatter)
 - [Gumroad](https://may3d.gumroad.com/l/openscatter)
 - [Discord Server](https://discord.gg/yP5fBHndtD)
