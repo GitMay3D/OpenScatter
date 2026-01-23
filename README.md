@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=GitMay3D&project=OpenScatter&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=GitMay3D&project=OpenScatter&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=GitMay3D&project=OpenScatter&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=GitMay3D&project=OpenScatter&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=GitMay3D&project=OpenScatter&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=GitMay3D&project=OpenScatter&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=GitMay3D&project=OpenScatter&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=GitMay3D&project=OpenScatter&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=GitMay3D&project=OpenScatter&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=GitMay3D&project=OpenScatter&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=GitMay3D&project=OpenScatter&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=GitMay3D&project=OpenScatter&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=GitMay3D&project=OpenScatter&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=GitMay3D&project=OpenScatter&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=GitMay3D&project=OpenScatter&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=GitMay3D&project=OpenScatter&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=GitMay3D&project=OpenScatter&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=GitMay3D&project=OpenScatter&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=GitMay3D&project=OpenScatter&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=GitMay3D&project=OpenScatter&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=GitMay3D&project=OpenScatter&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 ![Logo](https://files.catbox.moe/jo1b8s.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I51B67IU)
 [![Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/may3d/donate)
